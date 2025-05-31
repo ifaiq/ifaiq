@@ -58,7 +58,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="GitLab CI" />
 
   <!-- AI & ML -->
-  <img src="https://www.svgrepo.com/show/306500/openai.svg" height="30" alt="OpenAI" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="30" alt="PyTorch" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="30" alt="TensorFlow" />
 </p>
