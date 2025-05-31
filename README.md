@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faiq Shariff</h1>
+![image](https://github.com/user-attachments/assets/5475fef7-5034-4401-bbcf-2d7afc02cbec)<h1 align="center">Hi 👋, I'm Faiq Shariff</h1>
 <h3 align="center">🚀 Lead Software Engineer | Architecting Intelligent, Scalable Backends</h3>
 
 <p align="center">
