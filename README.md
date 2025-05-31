@@ -32,7 +32,7 @@
   
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js" />
+  <img src="https://cdn.groovetechnology.com/wp-content/uploads/2023/08/expressjs.png" height="30" alt="Express.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/NestJS-logo-wordmark.svg" height="30" alt="NestJS" />
 <img src="http://clutch.com/wp-content/uploads/2018/04/salesforce-commerce-cloud-logo.png" height="30" alt="Salesforce Commerce Cloud" />
