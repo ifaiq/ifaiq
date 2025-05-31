@@ -40,8 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="Redis" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Neo4j-logo.svg" height="30" alt="Neo4j" />
-  <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/assets/logo.png" height="30" alt="ChromaDB" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Neo4j-logo2024color.png" height="30" alt="Neo4j" />
 
   <!-- Cloud & DevOps -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1708px-Amazon_Web_Services_Logo.svg.png" height="30" alt="AWS" />
